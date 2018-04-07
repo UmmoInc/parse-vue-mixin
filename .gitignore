@@ -11,3 +11,4 @@ logs/
 *.ntvs*
 *.njsproj
 *.sln
+.lock
